@@ -2,3 +2,15 @@ baseURL: https://optimflow.io/
 languageCode: en-us
 title: OptimFlow
 theme: profile
+
+params:
+  contact:
+    enable: true
+    title: Contact
+    content: We're here to help with any questions you may have. Our team strives to respond to all inquiries within one business day.
+    btnName: Mail Us
+    btnLink: mailto:info@optimflow.io
+
+  footer:
+    socialNetworks:
+      github: https://github.com/OptimFlow
