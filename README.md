@@ -13,7 +13,7 @@ $ git submodule update --init --recursive
 Start the development server with:
 
 ```bash
-$ hugo server
+$ hugo server -D
 ```
 
 Open your browser at http://localhost:1313/.
