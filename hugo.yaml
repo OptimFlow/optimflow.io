@@ -26,6 +26,13 @@ params:
     brandName: OptimFlow
     disableSearch: true
 
+  hero:
+    enable: true
+    intro: Hi, our name is
+    title: OptimFlow.
+    subtitle: Where MLOps Excellence Flows Naturally
+    image: /images/logo_noBgWhite.svg
+
   contact:
     enable: true
     title: Contact
