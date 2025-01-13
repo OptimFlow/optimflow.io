@@ -12,6 +12,16 @@ params:
     disableThemeToggle: true
     defaultTheme: dark
 
+  color:
+    darkmode:
+      textColor: "#ffffff"
+      secondaryTextColor: "#e6e6e6"
+      textLinkColor: "#cccccc"
+      backgroundColor: "#000000"
+      secondaryBackgroundColor: "#1a1a1a"
+      primaryColor: "#ffffff"
+      secondaryColor: "#1a1a1a"
+
   navbar:
     brandName: OptimFlow
     disableSearch: true
