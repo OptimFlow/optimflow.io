@@ -4,6 +4,9 @@ title: OptimFlow
 theme: profile
 
 params:
+  title: OptimFlow
+  description: Where MLOps Excellence Flows Naturally
+
   contact:
     enable: true
     title: Contact
