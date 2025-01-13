@@ -41,6 +41,20 @@ params:
     subtitle: Where MLOps Excellence Flows Naturally
     image: /images/logo_noBgWhite.svg
 
+  about:
+    enable: true
+    title: About Us
+    content: |-
+      At OptimFlow, we specialize in revolutionizing the MLOps lifecycle through automation and innovation.
+      We are passionate about empowering businesses to maximize the potential of machine learning by streamlining complex processes like CI/CD pipelines, model monitoring, and continuous improvement.
+
+      **Why choose OptimFlow?**
+
+      Because we believe in the power of open source.
+      Open-source solutions bring transparency, flexibility, and cost-effectiveness, enabling organizations to build robust, scalable, and collaborative machine learning systems.
+      By leveraging the open-source ecosystem, we ensure our clients benefit from cutting-edge tools and frameworks while avoiding vendor lock-in.
+      With OptimFlow, you gain a partner dedicated to delivering reliability, scalability, and trust in every aspect of your machine learning journey.
+
   contact:
     enable: true
     title: Contact
