@@ -6,6 +6,15 @@ theme: profile
 params:
   title: OptimFlow
   description: Where MLOps Excellence Flows Naturally
+  favicon: /fav.png
+
+  theme:
+    disableThemeToggle: true
+    defaultTheme: dark
+
+  navbar:
+    brandName: OptimFlow
+    disableSearch: true
 
   contact:
     enable: true
