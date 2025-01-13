@@ -39,6 +39,10 @@ params:
     content: We're here to help with any questions you may have. Our team strives to respond to all inquiries within one business day.
     btnName: Mail Us
     btnLink: mailto:info@optimflow.io
+    formbricks:
+      enable: true
+      formId: cm5v6pm730000jg03ly7thsvf
+      embed: true
 
   footer:
     socialNetworks:
