@@ -55,6 +55,58 @@ params:
       By leveraging the open-source ecosystem, we ensure our clients benefit from cutting-edge tools and frameworks while avoiding vendor lock-in.
       With OptimFlow, you gain a partner dedicated to delivering reliability, scalability, and trust in every aspect of your machine learning journey.
 
+  experience:
+    enable: true
+    title: Our Services
+    items:
+      - job: Automated CI/CD
+        company: Pipelines
+        info:
+          enable: false
+        content: |-
+          - Seamlessly automate training, validation, and deployment processes.
+          - Ensure rapid, reliable delivery of machine learning models from development to production.
+
+      - job: Model Monitoring and Drift
+        company: Detection
+        info:
+          enable: false
+        content: |-
+          - Monitor the performance of production models in real time.
+          - Detect and address model drift to maintain accuracy and relevance.
+
+      - job: Continuous Model
+        company: Improvement
+        info:
+          enable: false
+        content: |-
+          - Identify opportunities to enhance existing machine learning models.
+          - Implement feedback loops for ongoing optimization.
+
+      - job: Custom MLOps
+        company: Solutions
+        info:
+          enable: false
+        content: |-
+          - Tailored workflows and systems designed to meet your unique business needs.
+          - Integrate seamlessly with your existing infrastructure.
+
+      - job: Open-Source Integration and
+        company: Support
+        info:
+          enable: false
+        content: |-
+          - Harness the latest open-source tools and frameworks.
+          - Receive expert guidance on implementation, customization, and scaling.
+
+      - job: End-to-End MLOps
+        company: Consultation
+        info:
+          enable: false
+        content: |-
+          - Comprehensive assessments to identify bottlenecks and areas for improvement.
+          - Strategic roadmaps for achieving your machine learning objectives.
+
   contact:
     enable: true
     title: Contact
