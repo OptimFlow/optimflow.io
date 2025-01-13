@@ -13,6 +13,14 @@ params:
     defaultTheme: dark
 
   color:
+    textColor: "#000000"
+    secondaryTextColor: "#1a1a1a"
+    textLinkColor: "#333333"
+    backgroundColor: "#ffffff"
+    secondaryBackgroundColor: "#e6e6e6"
+    primaryColor: "#000000"
+    secondaryColor: "#e6e6e6"
+
     darkmode:
       textColor: "#ffffff"
       secondaryTextColor: "#e6e6e6"
