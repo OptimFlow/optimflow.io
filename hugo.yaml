@@ -107,6 +107,17 @@ params:
           - Comprehensive assessments to identify bottlenecks and areas for improvement.
           - Strategic roadmaps for achieving your machine learning objectives.
 
+  education:
+    enable: true
+    title: Our Mission
+    index: false
+    items:
+      - title: At OptimFlow
+        school:
+          name: |-
+            Our mission is to empower your organization to achieve operational excellence in machine learning.
+            Whether you're building your first model or optimizing a sophisticated system, we're here to ensure your success every step of the way.
+
   contact:
     enable: true
     title: Contact
