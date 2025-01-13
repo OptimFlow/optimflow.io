@@ -33,6 +33,8 @@ params:
   navbar:
     brandName: OptimFlow
     disableSearch: true
+    stickyNavBar:
+      enable: true
 
   hero:
     enable: true
