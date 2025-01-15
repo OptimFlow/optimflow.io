@@ -41,7 +41,7 @@ params:
     intro: Hi, our name is
     title: OptimFlow.
     subtitle: Where MLOps Excellence Flows Naturally
-    image: /images/logo_noBgWhite.svg
+    image: /images/mlops_lifecycle_gray.png
 
   about:
     enable: true
