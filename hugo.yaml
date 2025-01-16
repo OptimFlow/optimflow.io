@@ -38,7 +38,7 @@ params:
 
   hero:
     enable: true
-    intro: Hi, our name is
+    intro: Hi, we are
     title: OptimFlow.
     subtitle: Where MLOps Excellence Flows Naturally
     image: /images/mlops_lifecycle_gray.png
