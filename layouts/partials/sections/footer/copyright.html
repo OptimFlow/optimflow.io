@@ -1,11 +1,6 @@
-<style>
-    .text-right {
-        text-align: right;
-    }
-</style>
-<div class="container">
-    <div class="row">
-        <div class="col-md">
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md text-center">
             <a href="/imprint">
                 Imprint
             </a>
@@ -13,7 +8,9 @@
                 Privacy
             </a>
         </div>
-        <div class="col-md text-right">
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md text-center">
             &copy; OptimFlow {{ now.Format "2006"}}. {{ .Site.Params.copyright }} {{ .Site.Params.terms.copyright | default "All Rights Reserved" }}
         </div>
     </div>
